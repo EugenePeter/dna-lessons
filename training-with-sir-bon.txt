@@ -1,0 +1,11 @@
+htop
+strace
+sudo -i
+ls /run/alsa/
+ls -alh /run/alsa/
+
+service docker stop
+
+Proccess State
+
+echo $?
